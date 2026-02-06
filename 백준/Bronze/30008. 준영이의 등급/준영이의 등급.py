@@ -1,7 +1,7 @@
 import sys
 input = sys.stdin.readline
 
-
+ 
 N ,K= map(int,input().split())
 
 k_list =list(map(int, input().split()))
